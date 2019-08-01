@@ -1,0 +1,1091 @@
+
+
+
+
+/*********************************************1100**********/
+
+@media only screen and (max-width:1100px){
+
+
+.heading{
+	
+	width: 15%;
+
+
+}
+.mainave
+{
+width: 60%;
+}
+#two
+{
+	width: 25%;
+}
+#two ul
+{
+	padding: 0px;
+}
+.mainave ul li{
+	padding:8px;
+}
+
+
+#two button{
+	background-color: #05264a;
+	padding:15px 10px;
+	
+	border-radius:50px;
+}
+
+
+ .right:hover {
+
+	background-color:#58667d;
+
+	
+}
+/*navigation media query end width 1100 px end*/
+
+
+/*content media query start width 1100 px start*/
+
+
+#btn {
+
+  
+    width: 350px;
+    margin: auto;
+    text-align: center;
+  
+}
+.mobile {
+    width:340px;
+  
+  }
+
+
+/********aman-container******/
+.goal{
+	padding-left:80px;
+}
+
+.credito img{
+padding-left:145px;
+	
+}
+
+.supper{
+	margin-left:0px;
+	margin:55px;
+}
+/***simple*************/
+.simple-container{
+	    padding-left:100px;
+	    padding-right:105px;
+}
+
+
+.gradeint-container{
+
+	padding-left:158px;
+	padding-right:82px;
+}
+
+/******amigas**********/
+
+.blog{
+    padding-right:0px;
+    margin-left:75px
+}
+.blog2 img{
+	width:425px;
+	padding-left:78px;
+}
+/******pictures*******/
+
+
+.otros{
+
+   
+    padding-left:86px;
+    padding-right:0px;
+  }
+#cooling{
+	margin-right:32px;
+	margin:36px;
+}
+#last-container img{
+
+    
+    padding-left:222px;
+
+}
+
+}
+
+
+/******1050*picture-container*********/
+
+@media only screen and (max-width:1050px){
+	.otros{
+		width:40%;
+	}
+	#cooling{
+		width:52%;
+	}
+
+}
+/******1035px****************************/
+
+@media only screen and (max-width:1035px)
+{
+
+
+/*section-container*/
+.supper{
+	margin-right: 43px;
+}
+.simple-container{
+	padding-right: 97px;
+	padding-left: 74px;
+}
+/*gradeint-container**/
+#sugar {
+	padding-left: 200px;
+}
+/**amigas-container**/
+
+
+.blog{
+	margin-left:65px !important;
+   
+}
+.blog2 img{
+	padding-top: 110px;
+
+}
+/**pictures-container**/
+.otros {
+  
+    padding-left: 42px;
+    padding-right: 0px;
+}
+}
+
+
+
+
+/*******1012*********************************/
+
+@media only screen and (max-width:1012px){
+/*********gradeint-container**/
+.heading{
+	width:10%;
+}
+.mainave{
+	width:65%;
+}
+
+	#sugar{
+		    padding-left: 157px;
+	}
+	.blog{
+		     margin-left:42px !important; 
+	}
+
+	.otros{
+    padding-left: 27px;
+    padding-right: 0px;
+}
+.simple-container{
+	    padding-left:60px;
+	        padding-right:55px;
+}
+}
+
+
+
+
+
+
+/******************************************991*******************************/
+
+@media only screen and (max-width:991px){
+
+
+.hide{
+	display:none;
+}
+
+
+.navigation_bar
+{
+	
+    padding-top: 10px;
+        width:84%;
+
+
+}
+.nav-btn
+{
+	
+    float: right;
+    border:1px solid #3e454f;
+    border-radius:4px;
+    padding: 5px;
+    padding-top: 7px;
+    cursor: pointer;
+
+}
+
+   .nav-btn  label  span {
+    display: block;
+    width: 22px;
+    height: 3px;
+    border-top: 1px solid #657080 ;
+        cursor: pointer;
+
+   
+  }
+
+
+
+
+.plus-container{
+	border:1px solid;
+	width:96%;
+	height:384px;
+	background-color : rgba(0,0,0,.9);
+	position: absolute;
+	top:115px;
+	left: 16px;
+	bottom: 0px;
+	display: block;
+	transition: 2s;
+
+}
+
+
+
+   
+.plus-container ul{
+	list-style: none;
+    padding-inline-start:0px;
+    margin:0px;
+
+}
+.plus-container ul li{
+	
+	border-bottom: 1px solid rgba(42,63,95,.5);
+	padding-left:20px;
+}
+
+
+.right{ border: 0px solid;
+	border-radius: 0px;
+ }
+
+
+
+.plus-container ul li:hover{
+	background-color:#1d3283;
+
+}
+.plus-container ul li a{
+text-decoration: none;
+line-height:63px;
+color:white;
+padding:18px;
+font-family: sans-serif;
+border-radius: 30px;
+ padding: 10px !important;	
+ 	transition: 2s;
+
+
+
+}
+
+
+
+.plus-container ul li a i{
+	
+color: blue;
+
+}
+
+
+
+
+.plus-container ul li a:hover{
+	background-color:#303066 !important;
+}
+
+.nmbr-container{
+
+    padding:70px;
+
+
+}
+#aman-container{
+	display:block;
+}
+.goal{
+	padding-right:158px;
+}
+
+.section-container{
+	display:block;
+}
+.credito img{
+	width:50%;
+	margin-left: 70px;
+}
+
+.supper{
+	width:754px;
+	margin-left: 121px;
+	
+
+}
+
+.simple-container{
+
+    padding-left:176px;
+    padding-right: 158px;
+}
+.gradeint-container {
+	display:block;
+}
+.click{
+	padding-left:118px;
+}
+#sugar{
+	padding-right:47px;
+	padding-left: 0px;
+}
+.amigas-container{
+   display: block;
+}
+.blog{
+	padding-left:100px;
+}
+.blog2 img{
+	width:580px;
+	padding-left:150px !important;
+}
+
+#pictures-container{
+	display:block !important;
+	
+
+}
+.otros{
+	width:79% !important;
+	padding-left: 125px;
+}
+#cooling{
+	display:block !important;
+	padding-left: 108px;
+
+
+}
+.one{
+	text-align: center;
+	padding:85px 62px;
+	width:100%;
+}
+}
+
+
+/*******937*************/
+
+@media only screen and (max-width:937px){
+
+
+
+/*navigation media query start width 937px px start*/
+
+.heading{
+	
+	width: 5%;
+
+
+}
+.mainave
+{
+width: 65%;
+}
+	
+}
+/*navigation media query end width 937px px end*/
+
+
+
+
+
+
+
+
+
+
+
+/******************************************900*****************/
+
+@media only screen and (max-width:900px) {
+    
+
+
+
+.navigation_bar
+{
+	
+    width: 50%;
+  
+
+
+}
+.heading {
+	width: 44%;
+	}
+
+
+
+
+
+
+
+
+}
+
+/**
+.section-container{
+	display:block;
+	max-width: 540px;
+}
+
+.credito img{
+	width:70%;
+	margin-top: -50px;
+	padding-left:305px;
+}
+
+.supper{
+	width:754px;
+	margin-left: 100px;
+	
+	
+}
+
+.gradeint-container{
+
+	display:block;
+	padding-left:116px;
+	padding-right:82px;
+}
+.click{
+	padding-left:118px;
+}
+#sugar{
+	width:100%;
+	padding-left: 0px;
+}
+
+.amigas-container{
+	display:block;
+}
+
+}
+.blog{
+	
+	margin-left:105px;
+	padding-right:113px;
+}
+.blog2 img{
+
+	padding-left:103px;
+	padding-right: 0px;
+}
+/**
+#pictures-container{
+	display:block;
+  max-width: 715px;
+	padding-left: 80px;
+}
+.otros{
+	width:97%;
+	padding-left: 20px;
+}
+#cooling{
+	display:block;
+	width:100%;
+}
+.one{
+	text-align: center;
+}
+*//**
+#last-container {
+	margin-top: 0px;
+	padding-right: 100px;
+	padding-left: 100px;
+	line-height: 1.6;
+   }
+   #last-container img{
+   	padding-left:115px;
+ 
+    position: absolute;
+
+   }
+}
+
+
+
+
+**/
+
+
+/**********************************************************750********************************/
+/**
+
+@media only screen and (max-width: 750px) {
+ 
+
+
+.hide 
+
+
+
+{
+	display:none;
+}
+
+
+.navigation_bar
+{
+	
+    padding-top: 30px;
+        width: 50%;
+
+
+}
+.nav-btn
+{
+	
+    float: right;
+    border:1px solid #3e454f;
+    border-radius:4px;
+    padding: 5px;
+    padding-top: 7px;
+    cursor: pointer;
+
+}
+
+   .nav-btn  label  span {
+    display: block;
+    width: 22px;
+    height: 3px;
+    border-top: 1px solid #657080 ;
+        cursor: pointer;
+
+   
+  }
+
+
+.nav-btn  .nav-ch a:hover {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+
+
+
+
+
+
+
+.plus-container{
+	border:1px solid;
+	width:95.5%;
+	height:384px;
+	background-color : rgba(0,0,0,.9);
+	position: absolute;
+	top:115px;
+	left: 16px;
+	bottom: 0px;
+	display: block;
+	transition: 2s;
+
+}
+
+#adit{
+	padding-top: 0px;
+}
+
+
+   
+.plus-container ul{
+	list-style: none;
+    padding-inline-start:0px;
+    margin:0px;
+
+}
+.plus-container ul li{
+	color:#327df6;
+	border-bottom: 1px solid rgba(42,63,95,.5);
+	padding-left:20px;
+}
+
+
+.right{ border: 0px solid;
+	border-radius: 0px;
+ }
+
+
+
+.plus-container ul li:hover{
+	background-color:#1d3283;
+
+}
+.plus-container ul li a{
+text-decoration: none;
+line-height:63px;
+color:white;
+padding:18px;
+font-family: sans-serif;
+border-radius: 30px;
+ padding: 10px !important;	
+ 	transition: 2s;
+
+
+
+}
+
+
+
+.plus-container ul li a i{
+	
+color: blue;
+
+}
+
+
+
+
+.plus-container ul li a:hover{
+	background-color:#303066 !important;
+}
+
+.nav_a
+{
+	
+ border:1PX solid white;
+}
+
+#btn {
+    margin-left: 24%;
+    margin-right:24%;
+  
+}
+.mobile {
+    width:300px;
+    height: 675px;
+  }
+
+
+
+
+#aman-container{
+	padding-top: 30px;
+	display:block;
+
+ 
+}
+.goal{
+	padding-right: 100px;
+
+}
+
+
+
+
+.section-container{
+	display:block;
+	max-width: 544px;
+}
+
+.credito img{
+	width:70%;
+	margin-top: -50px;
+	padding-left: 100px;
+}
+
+.supper{
+	width:100%;
+	
+	
+
+
+	
+}
+
+.gradeint-container{
+	max-width: 540px;
+	display:block;
+	padding-left:124px;
+	padding-right:96px;
+}
+.click{
+	padding-left:118px;
+}
+#sugar{
+	width:100%;
+	padding-left: 0px;
+}
+
+.amigas-container{
+	display:block;
+
+}
+.blog{
+	
+	margin-left:105px;
+	padding-right:113px;
+}
+.blog2 img{
+
+	padding-left:103px;
+	padding-right: 0px;
+}
+/**
+#pictures-container{
+	display:block;
+	max-width: 540px;
+	padding-left: 80px;
+}
+.otros{
+	width:97%;
+	padding-left: 20px;
+}
+#cooling{
+	display:block;
+	width:100%;
+}
+.one{
+	text-align: center;
+}
+*//*
+#last-container{
+	margin-top: 0px;
+   }
+   #last-container img{
+   	padding-left:31px;
+ 
+    position: absolute;
+
+   }
+}
+
+**/
+
+
+
+/****************************************************576**********************************/
+/**@media only screen and (max-width: 576px) 
+{
+
+#main-header
+{
+	padding-left: 0px;
+	height:57em;
+}
+
+
+	.color-container{
+	margin-left:0px;
+	display:none;
+
+
+}
+.hide
+{
+	display: none;
+}
+
+
+.heading{
+	width: 50%;
+}
+.navigation_bar
+{
+	padding-right: 30px;
+    padding-top: 30px;
+        width: 50%;
+
+
+}
+.nav-btn
+{
+	
+    float: right;
+    border:1px solid #3e454f;
+    border-radius:4px;
+    padding: 5px;
+    padding-top: 7px;
+    cursor: pointer;
+
+}
+
+   .nav-btn  label  span {
+    display: block;
+    width: 22px;
+    height: 3px;
+    border-top: 1px solid #657080 ;
+        cursor: pointer;
+
+   
+  }
+
+
+.nav-btn  .nav-ch a:hover {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+
+
+
+
+
+
+
+.plus-container{
+	border:1px solid;
+	width:95%;
+	height:384px;
+	background-color : rgba(0,0,0,.9);
+	position: absolute;
+	top: 100px;
+	left: 10px;
+	bottom: 0px;
+	display: block;
+	transition: 2s;
+
+}
+
+#adit{
+	padding-top: 0px;
+}
+
+
+   
+.plus-container ul{
+	list-style: none;
+    padding-inline-start:0px;
+    margin:0px;
+
+}
+.plus-container ul li{
+	color:#327df6;
+	border-bottom: 1px solid rgba(42,63,95,.5);
+	padding-left:20px;
+}
+
+
+.right{ border: 0px solid;
+	border-radius: 0px;
+ }
+
+
+
+.plus-container ul li:hover{
+	background-color:#1d3283;
+
+}
+.plus-container ul li a{
+text-decoration: none;
+line-height:63px;
+color:white;
+padding:18px;
+font-family: sans-serif;
+border-radius: 30px;
+ padding: 10px !important;	
+ 	transition: 2s;
+
+
+
+}
+
+
+
+.plus-container ul li a i{
+	
+color: blue;
+
+}
+
+
+
+
+.plus-container ul li a:hover{
+	background-color:#303066 !important;
+}
+
+.nav_a
+{
+	
+ border:1PX solid white;
+}
+
+
+
+.imgs{
+	width:180px;
+}
+     	
+    #main-header .heed {
+ 
+    font-size: 55px;
+    font-weight:550;
+  
+}
+#main-header #btn{
+   
+    padding: 19px 10px;
+
+    margin-left:15%;
+    margin-right:17%;
+   
+}
+#main-header #btn a{
+	font-size: 15px;
+	padding:15px;
+	margin:36px;
+	padding:17px 4px;
+}
+.mobile-container img {
+       width:60%;
+    height: 610px;
+
+ 
+}
+
+
+.nmbr-container a{
+	font-size: 15px;
+	font-weight: bold;
+	margin:-5px;
+}
+#aman-container{
+	padding-top: 30px;
+	display:block;
+}
+.goal{
+	width:96%;
+
+    padding-left: 18px;
+    padding-right: 0px
+
+}
+.goal h4{
+	
+}
+.goal p{
+	padding-right: 30px;
+}
+.section-container{
+	display:block;
+	max-width: 544px;
+}
+
+.credito img{
+	width:70%;
+	margin-top: -50px;
+	padding-left: 100px;
+}
+
+.supper{
+	width:100%;
+	margin-left:15px;
+	margin-right: 0px;
+
+
+	
+}
+.simple-container{
+padding-left:33px;
+padding-right:37px;
+}
+
+.gradeint-container{
+	
+	display:block;
+	padding:0px;
+	padding-left:7px;
+	padding-right: 0px;
+
+}
+
+.click{
+	padding-left: 150px;
+}
+
+#sugar{
+ padding-left: 25px;
+}
+
+.amigas-container{
+display:block;
+}
+.blog{
+margin-left:22px;
+padding-right: 14px;
+}
+.blog2{
+padding-left:30px;
+}
+.blog2 img{
+	padding-right:0px;
+}
+/**
+#pictures-container{
+	display:block;
+}
+.otros{
+	width:97%;
+	padding-left: 33px;
+}
+#cooling{
+	display:block;
+	width:99%;
+     padding-left:0px;
+}
+.one{
+padding:65px 10px;
+text-align: center;
+}
+
+.one img{
+padding:10px 10px;
+}
+*/
+/**
+#last-container{
+	width:100%;
+overflow: hidden;
+
+}
+
+#last-container h5{
+	line-height: 1.5;
+}
+#last-container img{
+	width:100%;
+	padding-left :100px;
+}
+
+.footer-container #col{
+	font-size:16px;
+
+}
+}
+
+**/
